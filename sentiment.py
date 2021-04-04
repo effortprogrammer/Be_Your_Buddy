@@ -1,7 +1,7 @@
 import os, requests, uuid, json
 
 # Don't forget to replace with your Cog Services subscription key!
-subscription_key = '75fd7ddabbbb4055a59ce6d9b30f988f' 
+subscription_key = 'subscription_key' 
 # Our Flask route will supply four arguments: input_text, input_language,
 # output_text, output_language.
 # When the run sentiment analysis button is pressed in our Flask app,

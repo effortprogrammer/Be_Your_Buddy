@@ -2,7 +2,7 @@ import os, requests, uuid, json
 
 # Don't forget to replace with your Cog Services subscription key!
 # If you prefer to use environment variables, see Extra Credit for more info.
-subscription_key = '20e0046f44bf48bfa48e87ac7909801b'
+subscription_key = 'subscription_key'
 location = 'westus2'
 # Don't forget to replace with your Cog Services location!
 # Our Flask route will supply two arguments: text_input and language_output.
